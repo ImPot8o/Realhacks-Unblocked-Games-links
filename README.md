@@ -80,7 +80,7 @@ https://piksuhl.github.io/
 
 https://veil-band-pixie.glitch.me/
 
-https://sneslover22.github.io/Mathews-Collection/games.html
+http://snescraft.me/Mathews-Collection/
 
 https://feetnetworks.netlify.app/
 
