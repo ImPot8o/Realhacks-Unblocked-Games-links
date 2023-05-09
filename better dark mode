@@ -1,0 +1,10 @@
+(function() {
+  const darkStyle = document.createElement('style');
+  darkStyle.innerHTML = `
+    body, html {
+      background-color: #121212 !important;
+      color: #ffffff !important;
+    }
+  `;
+  document.head.appendChild(darkStyle);
+})();
