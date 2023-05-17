@@ -138,6 +138,8 @@ https://bidoofery.github.io/nativegames/
 
 https://archive.org/details/internetarcade
 
+https://bidoofery.github.io/nativegames/
+
 https://vancouver-games.github.io/
 
 https://masonsunblockedgames.github.io/MasonsUnblockedGames/
