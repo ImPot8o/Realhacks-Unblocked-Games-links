@@ -51,7 +51,6 @@ https://realhack1.github.io/glaticgames/
 
 https://55gms.tk/
 
-https://sizsurvey-org-wservicewssky-se01-w.webnode.page/
 
 https://railingames.github.io/index.html
 
