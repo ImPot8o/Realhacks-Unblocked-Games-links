@@ -1,14 +1,12 @@
 ᴍʏ ʟɪꜱᴛ ᴏꜰ ᴜɴʙʟᴏᴄᴋᴇᴅ ɢᴀᴍᴇꜱ
 
-exploits.pages.dev
+https://exploits.pages.dev/
 
-55gms.me
+https://55gms.me/
 
 mathlearning.top
 
-55gms.vercel.app
-
-teacherspayteachers.tk
+https://55gms.vercel.app/
 
 https://tonicgaro.github.io/
 
