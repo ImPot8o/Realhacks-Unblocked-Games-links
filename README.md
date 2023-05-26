@@ -4,7 +4,7 @@ https://exploits.pages.dev/
 
 https://55gms.me/
 
-mathlearning.top
+https://mathlearning.top/
 
 https://55gms.vercel.app/
 
